@@ -1,3 +1,6 @@
 remember i have a git repo here that is connected to a remote repo
 called PortfolioSequentialDevelopments
 so always push and pull 
+
+my repo was private, i made it private, 
+end of tasks that i started on day 17th April 2025 from 12am to 1am
